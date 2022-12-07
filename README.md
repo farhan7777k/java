@@ -1,4 +1,4 @@
-# java
+# javascript
 var settingsmenu = document.querySelector(".settings-menu");
 var darkBtn = document.getElementById("dark-btn");
 
